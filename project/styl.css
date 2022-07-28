@@ -1,0 +1,77 @@
+.heading{
+    text-align: center;
+
+}
+.form-group{
+    
+    text-align: center;
+    position: relative;
+    top: 20px;
+
+}
+.first{
+    position: relative;
+    left: 0px;
+    top: 5px;
+    
+}
+.last{
+    position: relative;
+    right: 0px;
+    top: 20px ;
+    
+}
+.phone{
+    position: relative;
+    right: -5px;
+}
+.place{
+    position: relative;
+    right: -10px;
+    top: -25px;
+}
+.dob{
+    position: relative;
+    right: 36px;
+    top: -40px;
+}
+.gender{
+     position: relative;
+     
+     right: 115px;
+     top: -40px;
+     
+}
+.male{
+    position: relative;
+    top: -60px;
+    right: 50px;
+}
+.female{
+    position: relative;
+    right: 45px;
+    top:-50px ;
+}
+.other{
+    position: relative;
+    top: -40px;
+    right:50px;
+}
+.bloodgroup{
+    position:relative;
+    right:75px;
+    top:-50px;
+}
+.full{
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:200px;
+}
+body{
+    background-image: url("https://media.tehrantimes.com/d/t/2021/06/14/4/3797016.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+  
